@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2k8y4rNx+phn3/vZQhH6jLPQ9He5RB9SFgXYmLE49X5fggZFw3yzgcawIKyh31pjX4/eLDUXTFGE3KJ7eYsNPg==",
+  "dgSpecHash": "743TIBUBRkDAPxP0XrctjhV3mIisEFMXeDmRd3X83zoGvtNSr2JvJpeExpQDVh/LM5IfuxWD/nJBavOze2gG7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KuchingNeko\\Data-Covid-Indonesia\\Data-Covid-Indonesia.csproj",
+  "projectFilePath": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KuchingNeko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
     "C:\\Users\\KuchingNeko\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

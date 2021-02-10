@@ -2869,11 +2869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\KuchingNeko\\Data-Covid-Indonesia\\Data-Covid-Indonesia.csproj",
+      "projectUniqueName": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj",
       "projectName": "Data-Covid-Indonesia",
-      "projectPath": "c:\\Users\\KuchingNeko\\Data-Covid-Indonesia\\Data-Covid-Indonesia.csproj",
+      "projectPath": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj",
       "packagesPath": "C:\\Users\\KuchingNeko\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\KuchingNeko\\Data-Covid-Indonesia\\obj\\",
+      "outputPath": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KuchingNeko\\AppData\\Roaming\\NuGet\\NuGet.Config"
