@@ -41,7 +41,7 @@ namespace Data_Covid_Indonesia
              Console.WriteLine("- Penambahan sembuh: " + data.penambahan.sembuh);
              Console.WriteLine("- Penambahan meninggal: " + data.penambahan.meninggal + "\n");
              
-             // Print all to txt file
+             // Save all print to txt file
              lines.Add("[+] " + data.key);
              lines.Add("- Jumlah kasus: " + data.jumlah_kasus);
              lines.Add("- Jumlah sembuh: " + data.jumlah_sembuh);
