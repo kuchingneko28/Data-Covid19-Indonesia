@@ -1,0 +1,340 @@
+[+] DKI JAKARTA
+- Jumlah kasus: 303715
+- Jumlah sembuh: 274740
+- Jumlah dirawat: 24258
+- Jumlah meninggal: 4717
+[+] Kasus Penambahan 
+- Penambahan positif: 3309
+- Penambahan sembuh: 3245
+- Penambahan meninggal: 43
+
+[+] JAWA BARAT
+- Jumlah kasus: 170642
+- Jumlah sembuh: 141056
+- Jumlah dirawat: 27502
+- Jumlah meninggal: 2084
+[+] Kasus Penambahan 
+- Penambahan positif: 660
+- Penambahan sembuh: 1059
+- Penambahan meninggal: 16
+
+[+] JAWA TENGAH
+- Jumlah kasus: 138547
+- Jumlah sembuh: 89010
+- Jumlah dirawat: 44162
+- Jumlah meninggal: 5375
+[+] Kasus Penambahan 
+- Penambahan positif: 1220
+- Penambahan sembuh: 1316
+- Penambahan meninggal: 5
+
+[+] JAWA TIMUR
+- Jumlah kasus: 119479
+- Jumlah sembuh: 102411
+- Jumlah dirawat: 9034
+- Jumlah meninggal: 8034
+[+] Kasus Penambahan 
+- Penambahan positif: 603
+- Penambahan sembuh: 290
+- Penambahan meninggal: 17
+
+[+] SULAWESI SELATAN
+- Jumlah kasus: 50941
+- Jumlah sembuh: 46092
+- Jumlah dirawat: 4074
+- Jumlah meninggal: 775
+[+] Kasus Penambahan 
+- Penambahan positif: 180
+- Penambahan sembuh: 144
+- Penambahan meninggal: 0
+
+[+] KALIMANTAN TIMUR
+- Jumlah kasus: 46953
+- Jumlah sembuh: 37479
+- Jumlah dirawat: 8354
+- Jumlah meninggal: 1120
+[+] Kasus Penambahan 
+- Penambahan positif: 498
+- Penambahan sembuh: 381
+- Penambahan meninggal: 11
+
+[+] RIAU
+- Jumlah kasus: 29842
+- Jumlah sembuh: 28114
+- Jumlah dirawat: 1014
+- Jumlah meninggal: 714
+[+] Kasus Penambahan 
+- Penambahan positif: 173
+- Penambahan sembuh: 129
+- Penambahan meninggal: 3
+
+[+] BALI
+- Jumlah kasus: 29295
+- Jumlah sembuh: 13305
+- Jumlah dirawat: 15414
+- Jumlah meninggal: 576
+[+] Kasus Penambahan 
+- Penambahan positif: 305
+- Penambahan sembuh: 0
+- Penambahan meninggal: 0
+
+[+] SUMATERA BARAT
+- Jumlah kasus: 27802
+- Jumlah sembuh: 25374
+- Jumlah dirawat: 1807
+- Jumlah meninggal: 621
+[+] Kasus Penambahan 
+- Penambahan positif: 141
+- Penambahan sembuh: 59
+- Penambahan meninggal: 1
+
+[+] BANTEN
+- Jumlah kasus: 26767
+- Jumlah sembuh: 19062
+- Jumlah dirawat: 7194
+- Jumlah meninggal: 511
+[+] Kasus Penambahan 
+- Penambahan positif: 30
+- Penambahan sembuh: 254
+- Penambahan meninggal: 0
+
+[+] DAERAH ISTIMEWA YOGYAKARTA
+- Jumlah kasus: 24273
+- Jumlah sembuh: 17624
+- Jumlah dirawat: 6085
+- Jumlah meninggal: 564
+[+] Kasus Penambahan 
+- Penambahan positif: 291
+- Penambahan sembuh: 253
+- Penambahan meninggal: 7
+
+[+] SUMATERA UTARA
+- Jumlah kasus: 22286
+- Jumlah sembuh: 19204
+- Jumlah dirawat: 2311
+- Jumlah meninggal: 771
+[+] Kasus Penambahan 
+- Penambahan positif: 224
+- Penambahan sembuh: 104
+- Penambahan meninggal: 4
+
+[+] KALIMANTAN SELATAN
+- Jumlah kasus: 19177
+- Jumlah sembuh: 16970
+- Jumlah dirawat: 1533
+- Jumlah meninggal: 674
+[+] Kasus Penambahan 
+- Penambahan positif: 145
+- Penambahan sembuh: 190
+- Penambahan meninggal: 2
+
+[+] PAPUA
+- Jumlah kasus: 15939
+- Jumlah sembuh: 8755
+- Jumlah dirawat: 7014
+- Jumlah meninggal: 170
+[+] Kasus Penambahan 
+- Penambahan positif: 101
+- Penambahan sembuh: 10
+- Penambahan meninggal: 2
+
+[+] SUMATERA SELATAN
+- Jumlah kasus: 14931
+- Jumlah sembuh: 12359
+- Jumlah dirawat: 1864
+- Jumlah meninggal: 708
+[+] Kasus Penambahan 
+- Penambahan positif: 74
+- Penambahan sembuh: 99
+- Penambahan meninggal: 1
+
+[+] SULAWESI UTARA
+- Jumlah kasus: 14141
+- Jumlah sembuh: 10624
+- Jumlah dirawat: 3034
+- Jumlah meninggal: 483
+[+] Kasus Penambahan 
+- Penambahan positif: 34
+- Penambahan sembuh: 111
+- Penambahan meninggal: 5
+
+[+] KALIMANTAN TENGAH
+- Jumlah kasus: 12521
+- Jumlah sembuh: 9499
+- Jumlah dirawat: 2810
+- Jumlah meninggal: 212
+[+] Kasus Penambahan 
+- Penambahan positif: 30
+- Penambahan sembuh: 0
+- Penambahan meninggal: 0
+
+[+] LAMPUNG
+- Jumlah kasus: 11151
+- Jumlah sembuh: 8630
+- Jumlah dirawat: 1941
+- Jumlah meninggal: 580
+[+] Kasus Penambahan 
+- Penambahan positif: 106
+- Penambahan sembuh: 180
+- Penambahan meninggal: 8
+
+[+] SULAWESI TENGGARA
+- Jumlah kasus: 9770
+- Jumlah sembuh: 8489
+- Jumlah dirawat: 1096
+- Jumlah meninggal: 185
+[+] Kasus Penambahan 
+- Penambahan positif: 12
+- Penambahan sembuh: 37
+- Penambahan meninggal: 2
+
+[+] ACEH
+- Jumlah kasus: 9373
+- Jumlah sembuh: 7731
+- Jumlah dirawat: 1263
+- Jumlah meninggal: 379
+[+] Kasus Penambahan 
+- Penambahan positif: 3
+- Penambahan sembuh: 21
+- Penambahan meninggal: 0
+
+[+] SULAWESI TENGAH
+- Jumlah kasus: 9059
+- Jumlah sembuh: 6324
+- Jumlah dirawat: 2520
+- Jumlah meninggal: 215
+[+] Kasus Penambahan 
+- Penambahan positif: 63
+- Penambahan sembuh: 232
+- Penambahan meninggal: 4
+
+[+] KEPULAUAN RIAU
+- Jumlah kasus: 8403
+- Jumlah sembuh: 7788
+- Jumlah dirawat: 406
+- Jumlah meninggal: 209
+[+] Kasus Penambahan 
+- Penambahan positif: 37
+- Penambahan sembuh: 80
+- Penambahan meninggal: 0
+
+[+] KALIMANTAN UTARA
+- Jumlah kasus: 8205
+- Jumlah sembuh: 4692
+- Jumlah dirawat: 3411
+- Jumlah meninggal: 102
+[+] Kasus Penambahan 
+- Penambahan positif: 55
+- Penambahan sembuh: 28
+- Penambahan meninggal: 4
+
+[+] NUSA TENGGARA BARAT
+- Jumlah kasus: 7969
+- Jumlah sembuh: 5236
+- Jumlah dirawat: 2390
+- Jumlah meninggal: 343
+[+] Kasus Penambahan 
+- Penambahan positif: 90
+- Penambahan sembuh: 53
+- Penambahan meninggal: 1
+
+[+] PAPUA BARAT
+- Jumlah kasus: 6918
+- Jumlah sembuh: 6307
+- Jumlah dirawat: 500
+- Jumlah meninggal: 111
+[+] Kasus Penambahan 
+- Penambahan positif: 23
+- Penambahan sembuh: 25
+- Penambahan meninggal: 0
+
+[+] MALUKU
+- Jumlah kasus: 6630
+- Jumlah sembuh: 5508
+- Jumlah dirawat: 1032
+- Jumlah meninggal: 90
+[+] Kasus Penambahan 
+- Penambahan positif: 30
+- Penambahan sembuh: 14
+- Penambahan meninggal: 2
+
+[+] NUSA TENGGARA TIMUR
+- Jumlah kasus: 6568
+- Jumlah sembuh: 3005
+- Jumlah dirawat: 3399
+- Jumlah meninggal: 164
+[+] Kasus Penambahan 
+- Penambahan positif: 90
+- Penambahan sembuh: 59
+- Penambahan meninggal: 0
+
+[+] KEPULAUAN BANGKA BELITUNG
+- Jumlah kasus: 5549
+- Jumlah sembuh: 4710
+- Jumlah dirawat: 747
+- Jumlah meninggal: 92
+[+] Kasus Penambahan 
+- Penambahan positif: 89
+- Penambahan sembuh: 95
+- Penambahan meninggal: 0
+
+[+] JAMBI
+- Jumlah kasus: 4928
+- Jumlah sembuh: 3603
+- Jumlah dirawat: 1257
+- Jumlah meninggal: 68
+[+] Kasus Penambahan 
+- Penambahan positif: 45
+- Penambahan sembuh: 80
+- Penambahan meninggal: 0
+
+[+] SULAWESI BARAT
+- Jumlah kasus: 4701
+- Jumlah sembuh: 2579
+- Jumlah dirawat: 2035
+- Jumlah meninggal: 87
+[+] Kasus Penambahan 
+- Penambahan positif: 23
+- Penambahan sembuh: 34
+- Penambahan meninggal: 0
+
+[+] BENGKULU
+- Jumlah kasus: 4666
+- Jumlah sembuh: 4403
+- Jumlah dirawat: 120
+- Jumlah meninggal: 143
+[+] Kasus Penambahan 
+- Penambahan positif: 7
+- Penambahan sembuh: 15
+- Penambahan meninggal: 0
+
+[+] GORONTALO
+- Jumlah kasus: 4527
+- Jumlah sembuh: 4109
+- Jumlah dirawat: 296
+- Jumlah meninggal: 122
+[+] Kasus Penambahan 
+- Penambahan positif: 26
+- Penambahan sembuh: 21
+- Penambahan meninggal: 0
+
+[+] KALIMANTAN BARAT
+- Jumlah kasus: 4174
+- Jumlah sembuh: 3798
+- Jumlah dirawat: 344
+- Jumlah meninggal: 32
+[+] Kasus Penambahan 
+- Penambahan positif: 19
+- Penambahan sembuh: 44
+- Penambahan meninggal: 0
+
+[+] MALUKU UTARA
+- Jumlah kasus: 3713
+- Jumlah sembuh: 3018
+- Jumlah dirawat: 586
+- Jumlah meninggal: 109
+[+] Kasus Penambahan 
+- Penambahan positif: 40
+- Penambahan sembuh: 13
+- Penambahan meninggal: 1
+
