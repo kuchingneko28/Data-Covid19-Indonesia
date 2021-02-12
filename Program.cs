@@ -15,7 +15,7 @@ namespace Data_Covid_Indonesia
          //Url api
          await getUrl("https://data.covid19.go.id/public/api/prov.json");   
         }
-        static async Task<object> getUrl(string x)
+        static async Task<string> getUrl(string x)
         {
             string url = x;
             string filePath ="data-covid.txt";
