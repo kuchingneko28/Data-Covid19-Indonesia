@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj": {}
+    "C:\\Users\\KuchingNeko\\New folder\\Data-Covid19-Indonesia\\Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj": {
+    "C:\\Users\\KuchingNeko\\New folder\\Data-Covid19-Indonesia\\Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj",
-        "projectName": "Data-Covid-Indonesia",
-        "projectPath": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\Data-Covid-Indonesia.csproj",
+        "projectUniqueName": "C:\\Users\\KuchingNeko\\New folder\\Data-Covid19-Indonesia\\Project.csproj",
+        "projectName": "Project",
+        "projectPath": "C:\\Users\\KuchingNeko\\New folder\\Data-Covid19-Indonesia\\Project.csproj",
         "packagesPath": "C:\\Users\\KuchingNeko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KuchingNeko\\Data-Covid19-Indonesia\\obj\\",
+        "outputPath": "C:\\Users\\KuchingNeko\\New folder\\Data-Covid19-Indonesia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KuchingNeko\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,13 +38,13 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "RestSharp": {
               "target": "Package",
-              "version": "[13.0.1-beta1, )"
+              "version": "[106.11.8-alpha.0.12, )"
             },
-            "System.Net.Http": {
+            "RestSharp.Newtonsoft.Json": {
               "target": "Package",
-              "version": "[4.3.4, )"
+              "version": "[1.5.1, )"
             }
           },
           "imports": [
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

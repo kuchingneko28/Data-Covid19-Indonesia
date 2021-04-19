@@ -1,0 +1,40 @@
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.exe
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.deps.json
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.runtimeconfig.json
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.dll
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\ref\Project.dll
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Project.pdb
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\RestSharp.dll
+C:\Users\KuchingNeko\Project\bin\Debug\net5.0\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.csprojAssemblyReference.cache
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.AssemblyInfo.cs
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.csproj.CopyComplete
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.dll
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\ref\Project.dll
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.pdb
+C:\Users\KuchingNeko\Project\obj\Debug\net5.0\Project.genruntimeconfig.cache
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.exe
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.deps.json
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.runtimeconfig.json
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\ref\Project.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Project.pdb
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\RestSharp.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\bin\Debug\net5.0\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.csprojAssemblyReference.cache
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.AssemblyInfo.cs
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.csproj.CopyComplete
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\ref\Project.dll
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.pdb
+C:\Users\KuchingNeko\New folder\Data-Covid19-Indonesia\obj\Debug\net5.0\Project.genruntimeconfig.cache
